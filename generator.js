@@ -6,7 +6,7 @@ function GeneratePairing(){
  ancestors = new Array("The Handmaid", "The Summoner", "The Psiionic", "The Sufferer", "The Disciple", "The Dolorosa", "Neophyte Redglare", "Marquise Spinneret Mindfang", "Executor Darkleer", "The Grand Highblood", "Orphaner Dualscar", "The Condesce");
  betaTrolls = new Array("Aradia Megido", "Tavros Nitram", "Sollux Captor", "Karkat Vantas", "Nepeta Leijon", "Kanaya Maryam", "Terezi Pyrope", "Vriska Serket", "Equius Zahhak", "Gamzee Makara", "Eridan Ampora", "Feferi Peixes");
  alphaTrolls = new Array("Damara Megido", "Rufioh Nitram", "Mituna Captor", "Kankri Vantas", "Meulin Leijon", "Porrim Maryam", "Latula Pyrope", "Aranea Serket", "Horuss Zahhak", "Kurloz Makara", "Cronus Ampora", "Meenah Peixes");
- alphaGuardians = new Array("Alpha John Egbert", "Alpha Jade English", "Alpha Rose Lalonde", "Alpha Dave Strider");
+ alphaGuardians = new Array("Alpha John Crocker", "Alpha Jade English", "Alpha Rose Lalonde", "Alpha Dave Strider");
  betaGuardians = new Array("Beta Jane Egbert", "Beta Jake Harley", "Beta Roxy Lalonde", "Beta Dirk Strider");
  carapacians = new Array("Aimless Renegade", "Black King", "Black Queen", "Clubs Deuce", "Courtyard Droll", "Diamonds Droog", "Draconian Dignitary", "Hegemonic Brute", "Jack Noir", "Ms. Paint", "Peregrine Mendicant", "Snowman", "Spades Slick", "Wayward Vagabond", "Windswept Questant", "White King");
  firstGuardians = new Array("Doc Scratch", "Becquerel", "God Cat");
