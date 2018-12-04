@@ -51,6 +51,9 @@ if(document.getElementById("carapacians").checked){
 if(document.getElementById("hiveswap_trolls").checked){
 	wantedCharacters = wantedCharacters.concat(hiveswapTrolls);
  }
+if(document.getElementById("denizens").checked){
+	wantedCharacters = wantedCharacters.concat(denizens);
+ }
  
  if(document.getElementById("quadrants").checked){
 	 var quad = Math.floor(Math.random()*quadrants.length);
