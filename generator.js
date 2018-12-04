@@ -1,8 +1,8 @@
 function GeneratePairing(){
- alphaKids = new Array("Jane Crocker", "Jake English", "Roxy Lalonde", "Dirk Strider");
+ alphaKids = new Array("Jane Crocker", "Jake English", "Roxy Lalonde", "Dirk Strider", "AR|Lil Hal");
  betaKids = new Array("John Egbert", "Jade Harley", "Rose Lalonde", "Dave Strider");
  cherubs = new Array("Caliborn", "Calliope", "Lord English");
- sprites = new Array("ARquius", "Davepeta", "Jasprose", "Davesprite", "Nannasprite", "Jadesprite", "Jaspersprite", "Erisolsprite");
+ sprites = new Array("ARquius", "Davepeta", "Jasprose", "Davesprite", "Nannasprite", "Jadesprite", "Jaspersprite", "Erisolsprite", "Calsprite");
  ancestors = new Array("The Handmaid", "The Summoner", "The Psiionic", "The Sufferer", "The Disciple", "The Dolorosa", "Neophyte Redglare", "Marquise Spinneret Mindfang", "Executor Darkleer", "The Grand Highblood", "Orphaner Dualscar", "The Condesce");
  betaTrolls = new Array("Aradia Megido", "Tavros Nitram", "Sollux Captor", "Karkat Vantas", "Nepeta Leijon", "Kanaya Maryam", "Terezi Pyrope", "Vriska Serket", "Equius Zahhak", "Gamzee Makara", "Eridan Ampora", "Feferi Peixes");
  alphaTrolls = new Array("Damara Megido", "Rufioh Nitram", "Mituna Captor", "Kankri Vantas", "Meulin Leijon", "Porrim Maryam", "Latula Pyrope", "Aranea Serket", "Horuss Zahhak", "Kurloz Makara", "Cronus Ampora", "Meenah Peixes");
