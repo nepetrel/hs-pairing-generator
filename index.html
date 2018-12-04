@@ -1,31 +1,32 @@
-<!DOCTYPE html>
-<html>
-<head>
+<html><head>
     <title>Homestuck Pairing Generator</title>
-    <script src="generator.js"></script> 
+
 </head>
 <body>
     <center><h2>Homestuck Pairing Generator</h2></center>
     <h4>Updated Dec 3, 2018</h4>
-	
-<form id="options" style="width:45%;">
+	    <script src="generator.js"></script> 
+	<h3><div id="result" class="result" style="width:50%;align-content: right;float: right;"></div></h3>
+<form id="options" style="width:45%;float:left;">
 <div style="column-count: 3;padding-right: 10%;padding-left: 10%;">
-    <input type="checkbox" id="alpha_kids" checked>Alpha Kids<br>
-    <input type="checkbox" id="beta_kids" checked>Beta Kids<br>
-	<input type="checkbox" id="alpha_guardians" checked>Alpha Guardians<br>
-    <input type="checkbox" id="beta_guardians" checked>Beta Guardians<br>
-    <input type="checkbox" id="alpha_trolls" checked>Alpha Trolls<br>
-	<input type="checkbox" id="beta_trolls" checked>Beta Trolls<br>
-	<input type="checkbox" id="hiveswap_trolls" checked>Hiveswap Trolls<br>
-	<input type="checkbox" id="ancestors" checked>Ancestors<br>
-	<input type="checkbox" id="carapacians" checked>Carapacians<br>
-	<input type="checkbox" id="first_guardians" checked>First Guardians<br>
-	<input type="checkbox" id="denizens" checked>Denizens<br>
+    <input type="checkbox" id="alpha_kids" checked="">Alpha Kids<br>
+    <input type="checkbox" id="beta_kids" checked="">Beta Kids<br>
+	<input type="checkbox" id="alpha_guardians" checked="">Alpha Guardians<br>
+    <input type="checkbox" id="beta_guardians" checked="">Beta Guardians<br>
+    <input type="checkbox" id="alpha_trolls" checked="">Alpha Trolls<br>
+	<input type="checkbox" id="beta_trolls" checked="">Beta Trolls<br>
+	<input type="checkbox" id="hiveswap_trolls" checked="">Hiveswap Trolls<br>
+	<input type="checkbox" id="ancestors" checked="">Ancestors<br>
+	<input type="checkbox" id="cherubs" checked="">Cherubs<br>
+	<input type="checkbox" id="sprites" checked="">Sprites<br>
+	<input type="checkbox" id="carapacians" checked="">Carapacians<br>
+	<input type="checkbox" id="first_guardians" checked="">First Guardians<br>
+	<input type="checkbox" id="denizens" checked="">Denizens<br>
     </div><br><br>
 	<div style="padding-right: 10%;padding-left: 10%;">
-	  <input type="checkbox" id="Quadrants" checked>All Quadrants<br><br>
-	  <input type="submit" value="Generate Pairing" onclick="GeneratePairing()">
+	  <input type="checkbox" id="quadrants" checked="">All Quadrants<br><br>
+	  <input type="button" value="Generate Pairing" onclick="GeneratePairing()">
 	</div>
-</form>
-</body>
-</html>
+</form><br>
+
+</body></html>
